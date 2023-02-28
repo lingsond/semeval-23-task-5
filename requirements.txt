@@ -1,0 +1,5 @@
+docker
+transformers
+tqdm
+sentencepiece
+sentence-transformers
